@@ -10,14 +10,13 @@
 
 <br/>
 
-## 👩‍💻 About Me
+##  About Me
 
-- 🎓 Passionate developer who loves turning ideas into working web apps
-- 🛒 Built **3Arrow24x7**, a multi-vendor marketplace connecting customers with trusted service providers
-- 🌱 Currently improving my skills in full-stack development and clean, scalable code
-- 🤝 Open to collaborating on projects, internships, and open-source
-- 💬 Ask me about: JavaScript, web development, building e-commerce apps
-- ⚡ Fun fact: I ship first, then polish 😄
+-  Passionate developer who loves turning ideas into working web apps
+-  Built **3Arrow24x7**, a multi-vendor marketplace connecting customers with trusted service providers and worked on real estate project
+-  Currently improving my skills in full-stack development and clean, scalable code
+-  Ask me about: JavaScript, web development, building e-commerce apps
+-  Fun fact: I ship first, then polish 😄
 
 <br/>
 
@@ -34,15 +33,15 @@
 
 <br/>
 
-## 🚀 Featured Projects
+##  Featured Projects
 
 | Project | Description | Tech |
 |---|---|---|
-| [🛒 multi-vendor-e-commerce-](https://github.com/Harshita07singh/multi-vendor-e-commerce-) | 3Arrow24x7: a digital service marketplace where customers discover services and vendors showcase theirs | JavaScript |
-| [🧠 quiz-app](https://github.com/Harshita07singh/quiz-app) | Interactive quiz application | JavaScript |
-| [💊 patient-reminder](https://github.com/Harshita07singh/patient-reminder) | Reminder app to help patients stay on schedule | JavaScript |
-| [🛍️ E-comm](https://github.com/Harshita07singh/E-comm) | E-commerce web app | JavaScript |
-| [🎨 oasis-task](https://github.com/Harshita07singh/oasis-task) | Front-end design task | CSS |
+| [ multi-vendor-e-commerce-](https://github.com/Harshita07singh/multi-vendor-e-commerce-) | 3Arrow24x7: a digital service marketplace where customers discover services and vendors showcase theirs | JavaScript |
+| [ quiz-app](https://github.com/Harshita07singh/quiz-app) | Interactive quiz application | JavaScript |
+| [ patient-reminder](https://github.com/Harshita07singh/patient-reminder) | Reminder app to help patients stay on schedule | JavaScript |
+| [ E-comm](https://github.com/Harshita07singh/E-comm) | E-commerce web app | JavaScript |
+| [ oasis-task](https://github.com/Harshita07singh/oasis-task) | Front-end design task | CSS |
 
 <br/>
 
