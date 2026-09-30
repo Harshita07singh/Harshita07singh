@@ -9,7 +9,9 @@
 </div>
 
 <br/>
-
+<div align="center">
+  <img src="girl-coding.svg" width="380" alt="Girl coding animation" />
+</div>
 ##  About Me
 
 -  Passionate developer who loves turning ideas into working web apps
